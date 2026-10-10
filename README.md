@@ -17,3 +17,5 @@ A full-stack scheduling application built with:
 - PostgreSQL database
 - REST API
 
+# Purpose
+Project is made to build, track and manage tasks; with progress stats and an integration to motivate for better decisions, mentally and physically.
